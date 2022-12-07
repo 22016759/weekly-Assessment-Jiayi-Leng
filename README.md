@@ -1,4 +1,4 @@
-# Weekly-Assessment-Jiayi-Leng 22016759
+# Weekly programming tasks Jiayi Leng 22016759
 
 Here is my weekly homework link!
 
